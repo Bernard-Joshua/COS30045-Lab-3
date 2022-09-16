@@ -1,0 +1,25 @@
+body {
+    margin: 25px 50px 75px 100px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  h1,
+  h2 {
+    color: #383838;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: hotpink;
+  }
+  
+  footer {
+    margin-top: 5%;
+  }
